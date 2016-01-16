@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {https://github.com/gunners1/gunners1},--Sudo users
+    sudo_users = {0663554},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
